@@ -1,0 +1,14 @@
+/media/elshiwi/3AD0C0D1587627C5/BackEnd/Root/Assin/c-sharp/G-NET-33-OOP02/MyApp/bin/Debug/net10.0/MyApp
+/media/elshiwi/3AD0C0D1587627C5/BackEnd/Root/Assin/c-sharp/G-NET-33-OOP02/MyApp/bin/Debug/net10.0/MyApp.deps.json
+/media/elshiwi/3AD0C0D1587627C5/BackEnd/Root/Assin/c-sharp/G-NET-33-OOP02/MyApp/bin/Debug/net10.0/MyApp.runtimeconfig.json
+/media/elshiwi/3AD0C0D1587627C5/BackEnd/Root/Assin/c-sharp/G-NET-33-OOP02/MyApp/bin/Debug/net10.0/MyApp.dll
+/media/elshiwi/3AD0C0D1587627C5/BackEnd/Root/Assin/c-sharp/G-NET-33-OOP02/MyApp/bin/Debug/net10.0/MyApp.pdb
+/media/elshiwi/3AD0C0D1587627C5/BackEnd/Root/Assin/c-sharp/G-NET-33-OOP02/MyApp/obj/Debug/net10.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/media/elshiwi/3AD0C0D1587627C5/BackEnd/Root/Assin/c-sharp/G-NET-33-OOP02/MyApp/obj/Debug/net10.0/MyApp.AssemblyInfoInputs.cache
+/media/elshiwi/3AD0C0D1587627C5/BackEnd/Root/Assin/c-sharp/G-NET-33-OOP02/MyApp/obj/Debug/net10.0/MyApp.AssemblyInfo.cs
+/media/elshiwi/3AD0C0D1587627C5/BackEnd/Root/Assin/c-sharp/G-NET-33-OOP02/MyApp/obj/Debug/net10.0/MyApp.csproj.CoreCompileInputs.cache
+/media/elshiwi/3AD0C0D1587627C5/BackEnd/Root/Assin/c-sharp/G-NET-33-OOP02/MyApp/obj/Debug/net10.0/MyApp.dll
+/media/elshiwi/3AD0C0D1587627C5/BackEnd/Root/Assin/c-sharp/G-NET-33-OOP02/MyApp/obj/Debug/net10.0/refint/MyApp.dll
+/media/elshiwi/3AD0C0D1587627C5/BackEnd/Root/Assin/c-sharp/G-NET-33-OOP02/MyApp/obj/Debug/net10.0/MyApp.pdb
+/media/elshiwi/3AD0C0D1587627C5/BackEnd/Root/Assin/c-sharp/G-NET-33-OOP02/MyApp/obj/Debug/net10.0/MyApp.genruntimeconfig.cache
+/media/elshiwi/3AD0C0D1587627C5/BackEnd/Root/Assin/c-sharp/G-NET-33-OOP02/MyApp/obj/Debug/net10.0/ref/MyApp.dll
